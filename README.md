@@ -2,7 +2,7 @@
 ## Adam Sissoko
 
 ## Introduction
-Welcome to my personal project repository, where I've compiled a series of projects related to automated testing in the Java programming language. The primary focus of this collection is to highlight my expertise in utilizing JUnit for testing Java applications. Through each project, I aim to demonstrate not only my coding proficiency but also my adeptness in testing methodologies across various aspects of software development.
+Welcome to my personal project repository, where I've compiled a series of projects related to automated testing in the Java programming language. The primary focus of this collection is to highlight my expertise in utilizing JUnit for testing Java applications. Through each project, I aim to demonstrate not only my coding proficiency but also my skill in testing methodologies across various aspects of software development.
 
 ## Projects
 
